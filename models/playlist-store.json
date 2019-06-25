@@ -1,0 +1,88 @@
+{
+  "playlistCollection": [
+    {
+      "id":"01",
+      "duration":"30",
+      "title": "Beethoven Sonatas",
+      "songs": [
+        {
+          "id":"01",
+          "duration":"10",
+          "genre":"Classical",
+          "title": "Piano Sonata No. 3",
+          "artist": "Beethoven"
+        },
+        {
+          "id":"02",
+          "duration":"10",
+          "genre":"Classical",
+          "title": "Piano Sonata No. 7",
+          "artist": "Beethoven"
+        },
+        {
+          "id":"03",
+          "duration":"10",
+          "genre":"Classical",
+          "title": "Piano Sonata No. 10",
+          "artist": "Beethoven"
+        }
+      ]
+    },
+    {
+      "duration":"30",
+      "id":"02",
+      "title": "This is Dermot Kennedy",
+      "songs": [
+        {
+          "duration":"10",
+          "genre":"Pop/Rock",
+          "id":"01",
+          "title": "Outnumbered",
+          "artist": "Dermot Kennedy"
+        },
+        {
+          "id":"02",
+          "duration":"10",
+          "genre":"Pop/Rock",
+          "title": "Power Over Me",
+          "artist": "Dermot Kennedy"
+        },
+        {
+          "id":"03",
+          "duration":"10",
+          "genre":"Pop/Rock",
+          "title": "Lost",
+          "artist": "Dermot Kennedy"
+        }
+      ]
+    },
+    {
+      "duration":"30",
+      "id":"03",
+      "title": "Beethoven Concertos",
+      "songs": [
+        {
+          "id":"01",
+          "duration":"10",
+          "genre":"Classical",
+          "title": "Piano Concerto No. 0",
+          "artist": "Beethoven"
+        },
+        {
+          "id":"02",
+          "duration":"10",
+          "genre":"Classical",
+          "title": "Piano Concerto No. 4",
+          "artist": "Beethoven"
+        },
+        {
+          "id":"03",
+          "duration":"10",
+          "genre":"Classical",
+          "title": "Piano Concerto No. 6",
+          "artist": "Beethoven"
+        }
+      ]
+    }
+  ]
+}
